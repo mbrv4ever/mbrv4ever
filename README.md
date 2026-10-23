@@ -30,7 +30,7 @@ In elke zip zit een **snelgids** (PDF) met uitleg in grote letters.
 | [**DraveChat**](https://github.com/mbrv4ever/DraveChat) | Een lokale AI-chat: praat met een taalmodel op je eigen pc, zonder cloud. | 1.0.1 |
 | [**DraveJavis**](https://github.com/mbrv4ever/DraveJavis) | Een lokale, privé spraakassistent: praat via de microfoon, hij antwoordt met een echte stem, zoekt zelf online en kan je pc bedienen. | 1.0 |
 | [**DraveKITT**](https://github.com/mbrv4ever/DraveKITT) | Een pratende KITT-achtige assistent (Knight Rider-sfeer) die lokaal op je pc draait. | 1.0.2 |
-| [**DraveMind**](https://github.com/mbrv4ever/DraveMind) | Je eigen, lokale AI-werkplek (DraveAI). | 1.0.2 |
+| [**DraveMind**](https://github.com/mbrv4ever/DraveMind) | Je eigen, lokale AI-werkplek (DraveAI). | 1.1.0 |
 
 ### 🗂️ Tools en kantoor
 
@@ -94,7 +94,7 @@ In elke zip zit een **snelgids** (PDF) met uitleg in grote letters.
 | [**Dravenlock Browser**](https://github.com/mbrv4ever/DravenlockBrowser) | De Dravenlock-webbrowser: een eigen, privacyvriendelijke browser. | 1.0 |
 | [**DraveOnion**](https://github.com/mbrv4ever/DraveOnion) | Een Tor-onion-servertje: deel een eigen website anoniem via het Tor-netwerk. | 1.0.1 |
 | [**DraveServer**](https://github.com/mbrv4ever/DraveServer) | Je AI-chat als server. | 0.31.1 |
-| [**KITT-Server**](https://github.com/mbrv4ever/KITT-Server) | Jouw persoonlijke "hoofdkwartier" voor DraveKITT Mobile. | 1.0.2 |
+| [**KITT-Server**](https://github.com/mbrv4ever/KITT-Server) | Jouw persoonlijke "hoofdkwartier" voor DraveKITT Mobile. | 1.0.3 |
 
 ### 🎮 Games
 
