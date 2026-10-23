@@ -91,7 +91,7 @@ In elke zip zit een **snelgids** (PDF) met uitleg in grote letters.
 
 | App | Wat doet het? | Versie |
 |---|---|---|
-| [**Dravenlock Browser**](https://github.com/mbrv4ever/DravenlockBrowser) | De Dravenlock-webbrowser: een eigen, privacyvriendelijke browser. | 1.0 |
+| [**Dravenlock Browser**](https://github.com/mbrv4ever/DravenlockBrowser) | De Dravenlock-webbrowser: een eigen, privacyvriendelijke browser. | 5.5.2 |
 | [**DraveOnion**](https://github.com/mbrv4ever/DraveOnion) | Een Tor-onion-servertje: deel een eigen website anoniem via het Tor-netwerk. | 1.0.1 |
 | [**DraveServer**](https://github.com/mbrv4ever/DraveServer) | Je AI-chat als server. | 0.31.2 |
 | [**KITT-Server**](https://github.com/mbrv4ever/KITT-Server) | Jouw persoonlijke "hoofdkwartier" voor DraveKITT Mobile. | 1.0.4 |
