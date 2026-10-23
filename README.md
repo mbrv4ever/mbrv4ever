@@ -55,7 +55,7 @@ In elke zip zit een **snelgids** (PDF) met uitleg in grote letters.
 | [**DraveShot**](https://github.com/mbrv4ever/DraveShot) | Schermafbeeldingen en schermopnames met annotaties. | 0.1.9 |
 | [**DraveTag**](https://github.com/mbrv4ever/DraveTag) | Media-tags bewerken en bulk hernoemen. | 0.5.1 |
 | [**DraveTranslate**](https://github.com/mbrv4ever/DraveTranslate) | Offline vertaler. | 0.1.2 |
-| [**DraveWeer**](https://github.com/mbrv4ever/DraveWeer) | Het weerbericht en de verwachting voor jouw plaats, groot en duidelijk. | 1.0.1 |
+| [**DraveWeer**](https://github.com/mbrv4ever/DraveWeer) | Het weerbericht en de verwachting voor jouw plaats, groot en duidelijk. | 1.1.0 |
 | [**DraveZoom**](https://github.com/mbrv4ever/DraveZoom) | Schermvergrootglas: vergroot het stuk scherm rond je muis, met filters (grijswaarden, kleuren omkeren, hoog contrast) voor wie slecht ziet. Lokaal, offline, gratis (met donatie). | 0.16.1 |
 
 ### 🎨 Media en creatief
