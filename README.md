@@ -28,7 +28,7 @@ In elke zip zit een **snelgids** (PDF) met uitleg in grote letters.
 | App | Wat doet het? | Versie |
 |---|---|---|
 | [**DraveChat**](https://github.com/mbrv4ever/DraveChat) | Een lokale AI-chat: praat met een taalmodel op je eigen pc, zonder cloud. | 1.0.1 |
-| [**DraveJavis**](https://github.com/mbrv4ever/DraveJavis) | Een lokale, privé spraakassistent: praat via de microfoon, hij antwoordt met een echte stem, zoekt zelf online en kan je pc bedienen. | 1.0 |
+| [**DraveJavis**](https://github.com/mbrv4ever/DraveJavis) | Een lokale, privé spraakassistent: praat via de microfoon, hij antwoordt met een echte stem, zoekt zelf online en kan je pc bedienen. | 1.1 |
 | [**DraveKITT**](https://github.com/mbrv4ever/DraveKITT) | Een pratende KITT-achtige assistent (Knight Rider-sfeer) die lokaal op je pc draait. | 1.0.2 |
 | [**DraveMind**](https://github.com/mbrv4ever/DraveMind) | Je eigen, lokale AI-werkplek (DraveAI). | 1.1.0 |
 
