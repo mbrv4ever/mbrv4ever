@@ -101,7 +101,7 @@ In elke zip zit een **snelgids** (PDF) met uitleg in grote letters.
 | App | Wat doet het? | Versie |
 |---|---|---|
 | [**DraveDice**](https://github.com/mbrv4ever/DraveDice) | Een dobbelsteen-roller voor D&D en andere tafelspellen. Lokaal, offline, gratis (met donatie). Grote, goed leesbare cijfers. | 0.2.1 |
-| [**DraveFeest**](https://github.com/mbrv4ever/DraveFeest) | Een dorp vol feestdagen met voor elke feestdag een eigen spel, alleen of met z'n tweeen. | 0.5 |
+| [**DraveFeest**](https://github.com/mbrv4ever/DraveFeest) | Een dorp vol feestdagen met voor elke feestdag een eigen spel, alleen of met z'n tweeen. | 0.6 |
 | [**DraveGames**](https://github.com/mbrv4ever/DraveGames) | Sport-minigames in C64/Atari-stijl met medailles. Vier onderdelen, winter en zomer, voor 1 speler (medailles halen) of 2 spelers om-en-om op dezelfde pc. | 0.1.8 |
 | [**DravenCrawl**](https://github.com/mbrv4ever/DravenCrawl) | Een kerkerkruiper-spel (dungeon crawler) van Dravenlock Games. | 1.1.1 |
 
