@@ -21,7 +21,7 @@ In elke zip zit een **snelgids** (PDF) met uitleg in grote letters.
 
 ---
 
-## Alle 63 apps
+## Alle 64 apps
 
 ### 🤖 AI
 
@@ -109,6 +109,7 @@ In elke zip zit een **snelgids** (PDF) met uitleg in grote letters.
 | [**DraveDice**](https://github.com/mbrv4ever/DraveDice) | Een dobbelsteen-roller voor D&D en andere tafelspellen. Lokaal, offline, gratis (met donatie). Grote, goed leesbare cijfers. | 0.2.2 |
 | [**DraveFeest**](https://github.com/mbrv4ever/DraveFeest) | Een dorp vol feestdagen met voor elke feestdag een eigen spel, alleen of met z'n tweeen. | 0.7.1 |
 | [**DraveGames**](https://github.com/mbrv4ever/DraveGames) | Sport-minigames in C64/Atari-stijl met medailles. Vier onderdelen, winter en zomer, voor 1 speler (medailles halen) of 2 spelers om-en-om op dezelfde pc. | 0.1.9 |
+| [**DraveHalloweendorp**](https://github.com/mbrv4ever/DraveHalloweendorp) | Het zusje van het Kerstdorp: een levend Halloweendorp in vogelvlucht, gebouwd in Blender. Pompoenen, mist, verklede kinderen, spookjes bij het kerkhof en de heks die langs de maan vliegt. | 1.0.0 |
 | [**DraveKerstdorp**](https://github.com/mbrv4ever/DraveKerstdorp) | Een levend kerstdorp in vogelvlucht, gebouwd in Blender: sneeuw, een trein die stopt bij het station, dorpelingen, roodborstjes en de kerstman die voorbijvliegt. Klik op de huizen voor verhaaltjes en kerstrecepten. | 1.0.0 |
 | [**DravenCrawl**](https://github.com/mbrv4ever/DravenCrawl) | Een kerkerkruiper-spel (dungeon crawler) van Dravenlock Games. | 1.1.3 |
 
