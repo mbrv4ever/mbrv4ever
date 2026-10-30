@@ -21,7 +21,7 @@ In elke zip zit een **snelgids** (PDF) met uitleg in grote letters.
 
 ---
 
-## Alle 60 apps
+## Alle 61 apps
 
 ### 🤖 AI
 
@@ -54,6 +54,7 @@ In elke zip zit een **snelgids** (PDF) met uitleg in grote letters.
 | [**DravePoort**](https://github.com/mbrv4ever/DravePoort) | Startportaal voor je Dravenlock-apps. | 0.2.1 |
 | [**DraveSchrijf**](https://github.com/mbrv4ever/DraveSchrijf) | Rustig schrijven aan je boek, met inspreken en voorlezen. | 1.0.5 |
 | [**DraveSheet**](https://github.com/mbrv4ever/DraveSheet) | Invulbare D&D character sheets. | 0.4.4 |
+| [**DraveShopBuddy**](https://github.com/mbrv4ever/DraveShopBuddy) | Zoekmachine voor de laagste prijs: honderden webwinkels, heel internet en een prijswachter met prijsalarm. | 0.1.1 |
 | [**DraveShot**](https://github.com/mbrv4ever/DraveShot) | Schermafbeeldingen en schermopnames met annotaties. | 0.1.10 |
 | [**DraveTag**](https://github.com/mbrv4ever/DraveTag) | Media-tags bewerken en bulk hernoemen. | 0.5.1 |
 | [**DraveTranslate**](https://github.com/mbrv4ever/DraveTranslate) | Offline vertaler. | 0.1.4 |
