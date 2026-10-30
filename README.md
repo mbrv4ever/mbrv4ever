@@ -21,7 +21,7 @@ In elke zip zit een **snelgids** (PDF) met uitleg in grote letters.
 
 ---
 
-## Alle 61 apps
+## Alle 62 apps
 
 ### 🤖 AI
 
@@ -50,6 +50,7 @@ In elke zip zit een **snelgids** (PDF) met uitleg in grote letters.
 | [**DraveNote**](https://github.com/mbrv4ever/DraveNote) | Lokale markdown-notities. | 0.7.2 |
 | [**DraveOffice**](https://github.com/mbrv4ever/DraveOffice) | Lokale, offline office-suite: tekstverwerker, rekenblad, rekenmachine, kasboek, presentatie, tekenen en database. | 0.5.2 |
 | [**DravePack**](https://github.com/mbrv4ever/DravePack) | Bestanden in- en uitpakken. | 0.3.2 |
+| [**DraveOS**](https://github.com/mbrv4ever/DraveOS) | Een eigen bureaublad bovenop Windows: taakbalk, startmenu met al je Drave-apps, apps openen in vensters binnen DraveOS. | 0.1.2 |
 | [**DravePDF**](https://github.com/mbrv4ever/DravePDF) | PDF-gereedschap en ondertekenen. | 0.17.4 |
 | [**DravePoort**](https://github.com/mbrv4ever/DravePoort) | Startportaal voor je Dravenlock-apps. | 0.2.1 |
 | [**DraveSchrijf**](https://github.com/mbrv4ever/DraveSchrijf) | Rustig schrijven aan je boek, met inspreken en voorlezen. | 1.0.5 |
