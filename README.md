@@ -84,7 +84,7 @@ In elke zip zit een **snelgids** (PDF) met uitleg in grote letters.
 | [**DeskButler**](https://github.com/mbrv4ever/DeskButler) | Je digitale butler voor e-mail, taken, notities, downloads en meer, in één venster. | 6.7.3 |
 | [**DraveBackup**](https://github.com/mbrv4ever/DraveBackup) | Geplande lokale back-up van je mappen. | 0.1.2 |
 | [**DraveExplorer**](https://github.com/mbrv4ever/DraveExplorer) | Een snelle, toegankelijke verkenner voor je bestanden. Lokaal, offline, donationware. | 0.7.3 |
-| [**DraveGuard**](https://github.com/mbrv4ever/DraveGuard) | Een beveiligingsdashboard voor je pc: houdt in de gaten wat er draait en waarschuwt bij gevaar. | 1.2.2 |
+| [**DraveGuard**](https://github.com/mbrv4ever/DraveGuard) | Een beveiligingsdashboard voor je pc: houdt in de gaten wat er draait en waarschuwt bij gevaar. | 1.2.3 |
 | [**DravePurge**](https://github.com/mbrv4ever/DravePurge) | Privacy-opruimer. | 0.2.10 |
 | [**DraveSeCam**](https://github.com/mbrv4ever/DraveSeCam) | Lokale, offline bewakingscamera. | 0.6.4 |
 | [**DraveSetup Maker**](https://github.com/mbrv4ever/dravesetup) | Een setup-maker: bouw een nette installatie en uninstaller voor je eigen programma's. | 0.1.3 |
