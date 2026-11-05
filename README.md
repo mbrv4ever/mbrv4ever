@@ -28,7 +28,7 @@ In elke zip zit een **snelgids** (PDF) met uitleg in grote letters.
 | App | Wat doet het? | Versie |
 |---|---|---|
 | [**DraveChat**](https://github.com/mbrv4ever/DraveChat) | Een lokale AI-chat: praat met een taalmodel op je eigen pc, zonder cloud. | 1.0.3 |
-| [**DraveJavis**](https://github.com/mbrv4ever/DraveJavis) | Een lokale, privé spraakassistent: praat via de microfoon, hij antwoordt met een echte stem, zoekt zelf online en kan je pc bedienen. | 1.2.1 |
+| [**DraveJavis**](https://github.com/mbrv4ever/DraveJavis) | Een lokale, privé spraakassistent: praat via de microfoon, hij antwoordt met een echte stem, zoekt zelf online en kan je pc bedienen. | 1.2.2 |
 | [**DraveKITT**](https://github.com/mbrv4ever/DraveKITT) | Een pratende KITT-achtige assistent (Knight Rider-sfeer) die lokaal op je pc draait. | 1.1.1 |
 | [**DraveMind**](https://github.com/mbrv4ever/DraveMind) | Je eigen, lokale AI-werkplek (DraveAI). | 1.1.2 |
 
@@ -43,7 +43,7 @@ In elke zip zit een **snelgids** (PDF) met uitleg in grote letters.
 | [**DraveConvert**](https://github.com/mbrv4ever/DraveConvert) | Lokale media- en bestandsconverter (afbeeldingen, audio, video). Lokaal, offline, geen cloud, geen account. | 0.1.2 |
 | [**DraveEdit**](https://github.com/mbrv4ever/DraveEdit) | WYSIWYG HTML5-editor: bouw een webpagina door widgets te slepen, met live voorbeeld en export naar gewone HTML of een installeerbare PWA. Alles draait lokaal; de editor zit in dit pakket. | 0.21.1 |
 | [**DraveForms**](https://github.com/mbrv4ever/DraveForms) | Een PDF-lezer die invulbare formulieren kan invullen (dropdowns, tekstvakken, vinkjes) EN tekst aan een bestaande PDF kan toevoegen - ook formulieren die normaal alleen in Adobe werken. Lokaal, offline, gratis (met donatie). | 0.8.4 |
-| [**DraveKas**](https://github.com/mbrv4ever/DraveKas) | Je huishoudboekje, groot en duidelijk: zie meteen wat er deze maand nog over is. Met vaste lasten, spaardoelen en voorlezen. Op de pc én je Android-telefoon. | 0.1.1 |
+| [**DraveKas**](https://github.com/mbrv4ever/DraveKas) | Je huishoudboekje, groot en duidelijk: zie meteen wat er deze maand nog over is. Met vaste lasten, spaardoelen en voorlezen. Op de pc én je Android-telefoon. | 0.1.2 |
 | [**DraveKookboek**](https://github.com/mbrv4ever/DraveKookboek) | Je eigen recepten met kookstand, voorlezen en kookwekkers. | 1.0.4 |
 | [**DraveLeon**](https://github.com/mbrv4ever/DraveLeon) | Leer de stem Leon woorden goed uitspreken: typ een zin, luister woord voor woord en verbeter wat fout klinkt. Je lijst geldt voor alle Drave-apps met Leon. | 0.1.1 |
 | [**DraveLink**](https://github.com/mbrv4ever/DraveLink) | Chat en bestanden delen op je eigen netwerk (LAN) - zonder internet, zonder cloud. Onderdeel van de Dravenlock-reeks. | 0.6.1 |
@@ -69,11 +69,11 @@ In elke zip zit een **snelgids** (PDF) met uitleg in grote letters.
 | [**DraveComic**](https://github.com/mbrv4ever/DraveComic) | Maak je eigen stripboek: vakjes, plaatjes, zelf tekenen in lagen, ballonnen en geluidswoorden, achtergronden laag op laag, kaft en bladeren. Als PDF of plaatjes. | 0.5.0 |
 | [**DraveEReader**](https://github.com/mbrv4ever/DraveEReader) | E-boeklezer en voorlezer. | 0.1.9 |
 | [**DraveFoto**](https://github.com/mbrv4ever/DraveFoto) | Foto's bekijken, sorteren op datum en dubbele foto's vinden. | 1.0.2 |
-| [**DraveGoedNieuws**](https://github.com/mbrv4ever/DraveGoedNieuws) | Alleen goed nieuws: positieve berichten uit Nederland en de wereld, groot en rustig. Engelse berichten kun je laten vertalen, en Leon leest voor. | 0.1.1 |
+| [**DraveGoedNieuws**](https://github.com/mbrv4ever/DraveGoedNieuws) | Alleen goed nieuws: positieve berichten uit Nederland en de wereld, groot en rustig. Engelse berichten kun je laten vertalen, en Leon leest voor. | 0.1.2 |
 | [**DraveMedia**](https://github.com/mbrv4ever/DraveMedia) | Alles-in-een mediaspeler (Dravenlock). | 0.29 |
 | [**DraveMotion**](https://github.com/mbrv4ever/DraveMotion) | Een portable animatie- en videostudio: tekenen, tijdlijn en exporteren, alles lokaal. | 0.40.5 |
 | [**DravePaint**](https://github.com/mbrv4ever/DravePaint) | Eenvoudige tekenapp met lagen. | 0.1.13 |
-| [**DraveRadio & TV**](https://github.com/mbrv4ever/DraveRadioTV) | Gratis radio en tv van internet, uit de hele wereld, groot en duidelijk. Met favorieten, slaaptimer, wat er nu speelt en een stem die de zender noemt. | 0.3.1 |
+| [**DraveRadio & TV**](https://github.com/mbrv4ever/DraveRadioTV) | Gratis radio en tv van internet, uit de hele wereld, groot en duidelijk. Met favorieten, slaaptimer, wat er nu speelt en een stem die de zender noemt. | 0.3.2 |
 | [**DraveRead**](https://github.com/mbrv4ever/DraveRead) | Voorlezer (tekst-naar-spraak) met natuurlijke, neurale stemmen via Neuvoice. On-device: draait op je eigen pc, geen cloud. | 0.2.4 |
 | [**DraveSound**](https://github.com/mbrv4ever/DraveSound) | Een lichte, portable muziekmaker: zet loops op meerdere sporen en maak je eigen nummers. | 0.33.2 |
 | [**DraveStudio**](https://github.com/mbrv4ever/DraveStudio) | Een lichte fotobewerker met lagen (Photoshop-achtig), in Dravenlock-stijl. | 0.19.2 |
