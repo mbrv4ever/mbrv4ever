@@ -21,7 +21,7 @@ In elke zip zit een **snelgids** (PDF) met uitleg in grote letters.
 
 ---
 
-## Alle 65 apps
+## Alle 66 apps
 
 ### 🤖 AI
 
@@ -67,6 +67,7 @@ In elke zip zit een **snelgids** (PDF) met uitleg in grote letters.
 | App | Wat doet het? | Versie |
 |---|---|---|
 | [**DraveComic**](https://github.com/mbrv4ever/DraveComic) | Maak je eigen stripboek: vakjes, plaatjes, zelf tekenen in lagen, ballonnen en geluidswoorden, achtergronden laag op laag, kaft en bladeren. Als PDF of plaatjes. | 0.6.0 |
+| [**DraveWriter**](https://github.com/mbrv4ever/DraveWriter) | Maak je eigen receptenboek of een gewoon boek: voedingswaarden vanzelf (NEVO, RIVM), personen rekenen mee, kaft en inhoud vanzelf. Als PDF of drukklaar. | 0.2.0 |
 | [**DraveEReader**](https://github.com/mbrv4ever/DraveEReader) | E-boeklezer en voorlezer. | 0.1.9 |
 | [**DraveFoto**](https://github.com/mbrv4ever/DraveFoto) | Foto's bekijken, sorteren op datum en dubbele foto's vinden. | 1.0.2 |
 | [**DraveGoedNieuws**](https://github.com/mbrv4ever/DraveGoedNieuws) | Alleen goed nieuws: positieve berichten uit Nederland en de wereld, groot en rustig. Engelse berichten kun je laten vertalen, en Leon leest voor. | 0.1.2 |
