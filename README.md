@@ -74,7 +74,7 @@ In elke zip zit een **snelgids** (PDF) met uitleg in grote letters.
 | [**DraveMedia**](https://github.com/mbrv4ever/DraveMedia) | Alles-in-een mediaspeler (Dravenlock). | 0.29 |
 | [**DraveMotion**](https://github.com/mbrv4ever/DraveMotion) | Een portable animatie- en videostudio: tekenen, tijdlijn en exporteren, alles lokaal. | 0.40.5 |
 | [**DravePaint**](https://github.com/mbrv4ever/DravePaint) | Eenvoudige tekenapp met lagen. | 0.1.13 |
-| [**DraveRadio & TV**](https://github.com/mbrv4ever/DraveRadioTV) | Gratis radio en tv van internet, uit de hele wereld, groot en duidelijk. Met favorieten, slaaptimer, wat er nu speelt en een stem die de zender noemt. | 0.3.3 |
+| [**DraveRadio & TV**](https://github.com/mbrv4ever/DraveRadioTV) | Gratis radio en tv van internet, uit de hele wereld, groot en duidelijk. Met favorieten, slaaptimer, wat er nu speelt en een stem die de zender noemt. | 0.3.6 |
 | [**DraveRead**](https://github.com/mbrv4ever/DraveRead) | Voorlezer (tekst-naar-spraak) met natuurlijke, neurale stemmen via Neuvoice. On-device: draait op je eigen pc, geen cloud. | 0.2.4 |
 | [**DraveSound**](https://github.com/mbrv4ever/DraveSound) | Een lichte, portable muziekmaker: zet loops op meerdere sporen en maak je eigen nummers. | 0.33.2 |
 | [**DraveStudio**](https://github.com/mbrv4ever/DraveStudio) | Een lichte fotobewerker met lagen (Photoshop-achtig), in Dravenlock-stijl. | 0.19.2 |
