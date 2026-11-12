@@ -21,7 +21,7 @@ In elke zip zit een **snelgids** (PDF) met uitleg in grote letters.
 
 ---
 
-## Alle 66 apps
+## Alle 67 apps
 
 ### 🤖 AI
 
@@ -99,6 +99,7 @@ In elke zip zit een **snelgids** (PDF) met uitleg in grote letters.
 
 | App | Wat doet het? | Versie |
 |---|---|---|
+| [**DraveFileshare**](https://github.com/mbrv4ever/DraveFileshare) | Stuur bestanden tot 2 GB naar iedereen met een link die maar één keer werkt. Versleuteld op je eigen pc of telefoon, ontvanger heeft alleen een browser nodig. Met Android-app. | 1.0.0 |
 | [**DraveOnion**](https://github.com/mbrv4ever/DraveOnion) | Een Tor-onion-servertje: deel een eigen website anoniem via het Tor-netwerk. | 1.0.2 |
 | [**DraveServer**](https://github.com/mbrv4ever/DraveServer) | Je AI-chat als server. | 0.31.3 |
 | [**Dravenlock Browser**](https://github.com/mbrv4ever/DravenlockBrowser) | De Dravenlock-webbrowser: een eigen, privacyvriendelijke browser. | 5.5.4 |
