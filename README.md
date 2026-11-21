@@ -23,7 +23,7 @@ In elke zip zit een **snelgids** (PDF) met uitleg in grote letters.
 
 ---
 
-## Alle 67 apps
+## Alle 70 apps
 
 ### 🤖 AI
 
@@ -38,6 +38,7 @@ In elke zip zit een **snelgids** (PDF) met uitleg in grote letters.
 
 | App | Wat doet het? | Versie |
 |---|---|---|
+| [**Drave Visual Buddy**](https://github.com/mbrv4ever/VisualBuddy) | Je hulpje als je slecht ziet: leest hardop voor wat er op je scherm staat (F7-F10), eigen browser met grote knoppen en Leesmodus, leest je mail voor en controleert of die te vertrouwen is. | 0.9 |
 | [**DraveAgenda**](https://github.com/mbrv4ever/DraveAgenda) | Rustige agenda met grote letters, herinneringen en een stem die voorleest wat er vandaag staat. | 1.1.1 |
 | [**DraveBeurs**](https://github.com/mbrv4ever/DraveBeurs) | Volg aandelen en koersen op een overzichtelijk dashboard. | 1.0.1 |
 | [**DraveCodex**](https://github.com/mbrv4ever/DraveCodex) | Offline campagne-wiki. | 0.2.2 |
@@ -68,6 +69,7 @@ In elke zip zit een **snelgids** (PDF) met uitleg in grote letters.
 
 | App | Wat doet het? | Versie |
 |---|---|---|
+| [**DraveKaraoke**](https://github.com/mbrv4ever/DraveKaraoke) | Samen zingen met je pc en je mobiel: kies een YouTube-liedje op je mobiel, de songtekst loopt mee (ook duet). Met muziek-modus en eigen Android-app. Alles blijft thuis op je wifi. | 0.2 |
 | [**DraveComic**](https://github.com/mbrv4ever/DraveComic) | Maak je eigen stripboek: vakjes, plaatjes, zelf tekenen in lagen, ballonnen en geluidswoorden, achtergronden laag op laag, kaft en bladeren. Als PDF of plaatjes. | 0.6.0 |
 | [**DraveWriter**](https://github.com/mbrv4ever/DraveWriter) | Maak je eigen receptenboek of een gewoon boek: voedingswaarden vanzelf (NEVO, RIVM), personen rekenen mee, kaft en inhoud vanzelf. Als PDF of drukklaar. | 0.2.1 |
 | [**DraveEReader**](https://github.com/mbrv4ever/DraveEReader) | E-boeklezer en voorlezer. | 0.1.9 |
@@ -85,6 +87,7 @@ In elke zip zit een **snelgids** (PDF) met uitleg in grote letters.
 
 | App | Wat doet het? | Versie |
 |---|---|---|
+| [**DraveMaatje**](https://github.com/mbrv4ever/DraveMaatje) | Je maatje voor de pc, voor ouderen en iedereen zonder pc-kennis: kijkt je pc na, helpt met instellingen in gewone taal, leest voor en beschermt je tegen oplichters. Verandert nooit iets zonder te vragen. | 0.6 |
 | [**DeskButler**](https://github.com/mbrv4ever/DeskButler) | Je digitale butler voor e-mail, taken, notities, downloads en meer, in één venster. | 6.7.3 |
 | [**DraveBackup**](https://github.com/mbrv4ever/DraveBackup) | Geplande lokale back-up van je mappen. | 0.1.2 |
 | [**DraveExplorer**](https://github.com/mbrv4ever/DraveExplorer) | Een snelle, toegankelijke verkenner voor je bestanden. Lokaal, offline, donationware. | 0.7.3 |
