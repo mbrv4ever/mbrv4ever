@@ -2,6 +2,8 @@
 
 <h1 align="center">Dravenlock</h1>
 
+<h3 align="center"><i>Eerlijke software die gewoon werkt en doet.</i></h3>
+
 <p align="center"><b>Gratis Windows-apps, gemaakt door Roger &amp; Claudio.</b><br>
 Offline, zonder reclame, zonder account. Vrije software onder de GPL-3.0.</p>
 
